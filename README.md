@@ -30,9 +30,10 @@ Esta rama contiene las siguientes mejoras:
    - Muestra el inventario completo
    - Estadísticas en tiempo real
 
-## 📊 Estructura del Proyecto
+## Estructura del Proyecto
+
 ```
-evaluacion-final-inf1631/
+evaluacion-final-inf631/
 ├── app/
 │   ├── Controllers/
 │   │   └── ProductoController.php
@@ -51,14 +52,14 @@ evaluacion-final-inf1631/
 └── README.md
 ```
 
-## 🔧 Instalación
+## Instalación
 
 1. Clonar el repositorio
 2. Configurar MySQL (usuario: root, sin password)
 3. Acceder a `public/index.php?action=inicializar` para crear BD y datos
 4. Navegar por las diferentes vistas
 
-## 📝 Rutas Disponibles
+## Rutas Disponibles
 
 - `/` o `/?action=index` - Vista principal
 - `/?action=stock-alto` - Productos con stock > 5
