@@ -59,6 +59,11 @@ evaluacion-final-inf631/
 3. Acceder a `public/index.php?action=inicializar` para crear BD y datos
 4. Navegar por las diferentes vistas
 
+```
+# Accede a esta URL:
+http://localhost:8000/setup.php
+```
+
 ## Rutas Disponibles
 
 - `/` o `/?action=index` - Vista principal
